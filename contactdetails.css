@@ -1,0 +1,10 @@
+.text-center{
+	color: black;
+}
+
+.bg-image{
+	background-size: cover;
+	background-image: url('https://cdn.shutterstock.com/shutterstock/videos/12030389/thumb/1.jpg?i10c=img.resize(height:160)');
+	padding-top: 150px;
+	padding-bottom: 150px;
+}

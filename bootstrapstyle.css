@@ -1,0 +1,54 @@
+.text-center{
+	text-align: center;
+}
+
+.textwhite{
+	color: white;
+}
+
+.textbold{
+	color: white;
+	font-weight: bold;
+}
+
+p{
+	color: white;
+	box-shadow: black;
+}
+
+h3{
+	color: grey;
+}
+
+.glyphicon{
+	color: black;
+}
+
+.btn-orange{
+	background-color: orange;
+}
+
+.btn-round{
+	border-radius: 30px;
+}
+
+.bg-image{
+	background-size: cover;
+	background-image: url('https://cdn.shutterstock.com/shutterstock/videos/12030389/thumb/1.jpg?i10c=img.resize(height:160)');
+	padding-top: 150px;
+	padding-bottom: 150px;
+}
+
+.menu-image{
+	background-size: cover;
+	background-image: url('https://static1.squarespace.com/static/51c748abe4b0c275d0aa86bf/56141f2be4b0a4afc2d17505/561587f3e4b0f890085b86fb/1469211516261/?format=500w');
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.animated.zoomin{
+  -vendor-animation-duration: 5s;
+  -vendor-animation-delay: 5s;
+  -vendor-animation-iteration-count: infinite;
+}
+}
